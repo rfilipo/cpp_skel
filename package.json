@@ -1,0 +1,25 @@
+{
+  "name": "<project_name",
+  "version": "0.0.1",
+  "description": "A great GPL3 cpp project!!!",
+  "main": "src/main.cpp",
+  "directories": {
+    "doc": "docs",
+    "src": "src",
+    "build": "build"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rfilipo/cpp_skel.git"
+  },
+  "keywords": [],
+  "author": "Monsenhor Filipo",
+  "license": "GPL3",
+  "bugs": {
+    "url": "https://github.com/rfilipo/cpp_skel/issues"
+  },
+  "homepage": "https://github.com/rfilipo/cpp_skel"
+}
