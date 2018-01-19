@@ -11,5 +11,5 @@ AC_PROG_CC
 AX_BOOST_BASE([1.58])
 AX_BOOST_UNIT_TEST_FRAMEWORK
 AC_CONFIG_HEADERS([config.h])
-AC_CONFIG_FILES([Makefile src/Makefile])
+AC_CONFIG_FILES([Makefile src/Makefile t/Makefile])
 AC_OUTPUT
