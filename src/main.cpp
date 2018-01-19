@@ -24,6 +24,9 @@
 #include <unistd.h>
 #include <config.h>
 #include <stdlib.h>
+#include <stdio.h>
+#include <iostream>
+
 
 #ifndef VERSION
 #define VERSION 0.01
