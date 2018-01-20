@@ -1,5 +1,6 @@
 AC_INIT([<project_name>], [0.1], [youremail@some.local])
 
+m4_include([m4/ax_gnu_autotest.m4])
 m4_include([m4/ax_boost_base.m4])
 m4_include([m4/ax_boost_unit_test_framework.m4])
 
