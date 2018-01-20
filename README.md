@@ -10,6 +10,10 @@
 
 ## SINOPSYS
 
+```shell
+
+    export BOOST_ROOT=/my/path/to/boost_version
+
     git clone https://github.com/rfilipo/cpp_skel.git myNewCppProject
 
     cd myNewCppProject
@@ -19,6 +23,8 @@
     autoreconf --install
     ./configure --with-boost --with-boost-unit-test-framework
     make check
+  
+```
 
 ## DESCRIPTION
 
