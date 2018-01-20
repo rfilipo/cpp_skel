@@ -10,15 +10,15 @@
 
 ## SINOPSYS
 
-git clone https://github.com/rfilipo/cpp_skel.git myNewCppProject
+    git clone https://github.com/rfilipo/cpp_skel.git myNewCppProject
 
-cd myNewCppProject
+    cd myNewCppProject
 
-grep -rli '<project_name>' * | xargs -i@ sed -i "s/<project_name>/myNewCppProject/g" @
+    grep -rli '<project_name>' * | xargs -i@ sed -i "s/<project_name>/myNewCppProject/g" @
 
-autoreconf --install
-./configure --with-boost --with-boost-unit-test-framework
-make check
+    autoreconf --install
+    ./configure --with-boost --with-boost-unit-test-framework
+    make check
 
 ## DESCRIPTION
 
