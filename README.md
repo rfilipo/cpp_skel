@@ -24,20 +24,26 @@
 
 Simple skeleton for a cpp autotolls TDD project with basic boost support
 
-If you have a non trivial boost instalation, don't forget to export the BOOST_HOME environment variable.
+If you have a non trivial boost instalation, don't forget to export the $BOOST_ROOT environment variable.
 
 Use autotools to configure, build, test and install.
 
 ## SEE ALSO
 
 - autotools
+
 https://en.wikipedia.org/wiki/GNU_Build_System
+
 https://autotools.io/index.html
+
 https://www.gnu.org/software/autoconf/autoconf.html
 
 - Boost 
+
 http://www.boost.org
+
 http://www.boost.org/doc/libs/1_66_0/libs/test/doc/html/index.html
 
 - Windows:
+
 http://gnuwin32.sourceforge.net/packages/autoconf.htm
