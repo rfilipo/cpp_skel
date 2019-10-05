@@ -8,7 +8,7 @@
 
 0.0.1
 
-## SINOPSYS
+## SYNOPSIS
 
 ```shell
 
